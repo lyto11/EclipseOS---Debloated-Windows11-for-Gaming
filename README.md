@@ -1,4 +1,4 @@
-# EclipseOS 11 25H2 Ultralite
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=600&size=35&duration=1&pause=10000&color=A93CFF&width=575&height=55&lines=EclipseOS+11+25H2+Ultralite" alt="Typing SVG" /></a>
 
 A clean, performance-focused Windows 11 build designed for gaming. Removes unnecessary bloat, tweaks system settings, and optimizes resources to help you get the most out of your hardware.
 
