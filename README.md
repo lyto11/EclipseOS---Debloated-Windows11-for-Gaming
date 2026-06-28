@@ -57,7 +57,7 @@ EclipseOS includes an automatic post-install system that runs on first boot:
 - Boot: **UEFI only**
 - Language: **en-US**
 
-## DISCLAIMER
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=600&size=35&duration=1&pause=10000&color=F72222&lines=DISCLAIMER" alt="Typing SVG" /></a>
 
 - This custom ISO is missing some default Windows features
 - Xbox services and OneDrive are not available out of the box
